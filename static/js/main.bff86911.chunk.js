@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-podstawy_typeofweb"]=this["webpackJsonpreact-podstawy_typeofweb"]||[]).push([[0],[,,,function(e,t,o){e.exports=o(4)},function(e,t,o){"use strict";o.r(t);var n=o(0),r=o.n(n),a=o(2);o.n(a).a.render(r.a.createElement("div",null,"Hello, world!"),document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.bff86911.chunk.js.map
